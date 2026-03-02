@@ -1,0 +1,4 @@
+git config --global init.defaultBranch main  установить имя main для вашей ветки по умолчанию
+
+git config --list проверить используемую конфигурацию
+
